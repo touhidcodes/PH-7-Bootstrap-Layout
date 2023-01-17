@@ -1,0 +1,7 @@
+5 Concepts for Responsive Bootstrap
+
+1. Container
+2. Row
+3. Column
+4. Breakpoint
+5. 12 Columns with Breakpoints
